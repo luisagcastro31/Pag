@@ -1,9 +1,9 @@
-import logo from './logo.svg';
-import CardRazasPerros from './components/CardRazasPerros';
-import './styles/App.css';
-import perroPelao from './media/n0ru9t103ib61.png';
-import perroAsustado from './media/perroSentado.jpg';
-import perroPanzon from './media/perroPanzon.jpg';
+import logo from 'logo.svg';
+import CardRazasPerros from 'components/CardRazasPerros';
+import 'styles/App.css';
+import perroPelao from 'media/n0ru9t103ib61.png';
+import perroAsustado from 'media/perroSentado.jpg';
+import perroPanzon from 'media/perroPanzon.jpg';
 
 function App() {
   return (
